@@ -1,6 +1,4 @@
 # Static Sign Language Translator
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/kimmartelolives/static-sign-language-translator)
-
 This project provides a real-time static sign language translator that uses a webcam to detect and interpret hand gestures. It leverages machine learning to classify signs and provides audio feedback for the translated word or letter.
 
 ## Features
